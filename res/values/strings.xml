@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Online Shop</string>
+    <string name="title">welcome to Digital Store aGateway to the Lasted Tech</string>
+    <string name="subtitle">Sign in to explore a wide range of cutting -edge
+                             digital products. Donot have an account yet?
+                             Register now and enjoy aseamless
+                             and secure shopping experience</string>
+    <string name="start">Lets Get Started</string>
+    <string name="signin">Already have an account? SignIn<font color="#005fee"></font></string>
+
+
+
+</resources>
